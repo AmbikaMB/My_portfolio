@@ -1,0 +1,63 @@
+*{
+    color: black;
+}
+
+#back{
+    height: 600px;
+    background-color: #1babd3;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+}
+#main{
+    background-color: white;
+    height: 600px;
+    width: 70%;
+    margin-top: 85px;
+    border-radius: 4%;
+    border: 2px solid rgba(95, 82, 82, 0.251);
+    display: flex;
+}
+#img{
+    background-image: url("photo_2024-06-04_17-22-56.jpg");
+    background-size: cover;
+    height: 380px;
+    width: 32%;
+    margin-top: 80px;
+    margin-left: 90px;
+    border-radius: 4%;
+}
+#name{
+    text-align: center;
+    margin-top: 90px;
+    margin-left: 55px;
+}
+a{
+    text-decoration: none;
+}
+#cont{
+    text-align:left;
+    margin-top: 80px;
+}
+#head{
+    background-color:#1babd3;
+    height: 50px;
+    display: flex;
+
+}
+#hc{
+    background-color:#1babd3;
+    display: flex;
+}
+.ht{
+  margin: 95px;
+  margin-top: 40px;
+  font-size: 17px;
+  font-weight: bold;
+}
+.ht:hover{
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+
